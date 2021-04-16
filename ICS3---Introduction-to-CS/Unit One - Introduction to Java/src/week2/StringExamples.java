@@ -53,7 +53,7 @@ public class StringExamples {
     String s4 = "Steve";    // String literal - Java stores all the String literals in a table and reuses them 
 
 
-    //System.out.println(s1 == s2);     // == equality operator  = assignmwent operator (never use == to compare strings)
+    //System.out.println(s1 == s2);     // == equality operator  = assignment operator (never use == to compare strings)
     //System.out.println(s1 == s3);
 
     //System.out.println(s1.equals(s2));  // check if 2 strings are equal then use the equals method!!!!
